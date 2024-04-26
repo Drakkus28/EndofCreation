@@ -1,0 +1,6 @@
+framework module Pods_StrandedTests {
+  umbrella header "Pods-StrandedTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
